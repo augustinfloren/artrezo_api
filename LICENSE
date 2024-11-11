@@ -1,24 +1,20 @@
-This is free and unencumbered software released into the public domain.
+# Private License
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+## License Grant
+This repository and its contents (the "Code") are provided for personal and private use only. You may use, study, and experiment with the Code for non-commercial purposes. However, you **may not**:
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+- Distribute, sell, or sublicense the Code.
+- Modify, reverse-engineer, or create derivative works based on the Code for public or commercial use.
+- Publicly share or use the Code in any environment where it is accessible to third parties without explicit written permission from the owner.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+## Ownership
+The Code remains the intellectual property of the author. All rights not expressly granted in this license are reserved by the author.
 
-For more information, please refer to <https://unlicense.org>
+## No Warranty
+The Code is provided "as is," without any express or implied warranty. The author is not responsible for any damages, loss of data, or any other consequences arising from the use of the Code.
+
+## Termination
+This license will automatically terminate if you breach any of its terms. Upon termination, you must immediately cease all use of the Code and destroy any copies of it.
+
+## Contact
+For permission or inquiries regarding the Code, please contact the author directly at augustinfloren@gmail.com.
